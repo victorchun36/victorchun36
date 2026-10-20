@@ -26,9 +26,4 @@
 
 ## 🌱 My Philosophy
 
-> Learn something new, build something useful, and improve every day.
-
----
-
-✨ *Learning by building, one step at a time.*
-
+> Learning by building, one step at a time.
