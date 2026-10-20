@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**victorchun36/victorchun36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Victor Chun Wai Xiang
 
-Here are some ideas to get you started:
+First-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm exploring the world of data, AI, and automation while building my technical skills one project at a time.
+
+## Interests
+
+- Data Engineering
+- Data Science & Analytics
+- Artificial Intelligence & Machine Learning
+- Automation & Scripting
+
+## Currently Learning
+
+Building my foundation in programming, data processing, and analytical thinking.
+
+## Goals
+
+- Develop practical, hands-on projects.
+- Learn how to turn data into useful insights.
+- Document my learning journey and grow my portfolio.
+
+---
+
+*Learning by building, one step at a time.*
