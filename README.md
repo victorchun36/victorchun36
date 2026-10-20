@@ -1,27 +1,34 @@
+# 👋 Hi, I'm Victor Chun Wai Xiang
 
-# Hi, I'm Victor Chun Wai Xiang
+🎓 First-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
 
-First-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
+🌱 Exploring the world of data, AI, and automation while building my technical skills one project at a time.
 
-I'm exploring the world of data, AI, and automation while building my technical skills one project at a time.
+## 🔍 Interests
 
-## Interests
+- 📊 Data Engineering & Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚙️ Automation & Scripting
+- 🧠 Exploring new technologies and ideas
 
-- Data Engineering
-- Data Science & Analytics
-- Artificial Intelligence & Machine Learning
-- Automation & Scripting
+## 📚 Currently Learning
 
-## Currently Learning
+- 💻 Programming and problem-solving
+- 🗃️ Data processing and management
+- 📈 Turning data into useful insights
 
-Building my foundation in programming, data processing, and analytical thinking.
+## 🎯 Goals
 
-## Goals
+- 🛠️ Build practical, hands-on projects.
+- 💡 Learn how to solve real-world problems with data.
+- 🚀 Grow my technical skills and portfolio.
+- 📝 Document my learning journey on GitHub.
 
-- Develop practical, hands-on projects.
-- Learn how to turn data into useful insights.
-- Document my learning journey and grow my portfolio.
+## 🌱 My Philosophy
+
+> Learn something new, build something useful, and improve every day.
 
 ---
 
-*Learning by building, one step at a time.*
+✨ *Learning by building, one step at a time.*
+
