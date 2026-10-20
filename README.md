@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Victor Chun Wai Xiang
 
 <p align="center">
-  <img src="./profile.png" width="220" alt="Victor Chun Wai Xiang's profile photo" />
+  <img src="./profile.png" width="220" alt="profile.png" />
 </p>
 
 🎓 First-year Data Engineering student at Universiti Teknologi Malaysia (UTM).
